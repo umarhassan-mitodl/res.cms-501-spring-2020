@@ -1,0 +1,11 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 27336534-d1bb-b968-4f13-94e394585355
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: 5ec9ff69-747d-4567-9732-8cb663750b34
+  name: Online Publication
+  pageRef: /external-resources/online-publication_5ec9ff69-747d-4567-9732-8cb663750b34
+  weight: 1000
