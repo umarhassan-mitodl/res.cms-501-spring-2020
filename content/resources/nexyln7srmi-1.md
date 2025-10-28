@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/bb9f383fc91fdfd24c602447f482bc26_nEXylN7sRmI.pdf
 file_size: 50909
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

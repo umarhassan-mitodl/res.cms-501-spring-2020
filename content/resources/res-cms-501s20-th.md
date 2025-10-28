@@ -4,12 +4,10 @@ description: ''
 file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/ac2777c1b69173118110c7d9c243c3ff_res-cms-501s20-th.jpg
 file_size: 6245
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "In this course,\_learners reflect on the purpose and goals of secondary\
     \ school, as well as desirable characteristics for graduates. (Image courtesy\
-    \ of [hippopx](https://www.hippopx.com/en/accomplishment-ceremony-education-graduation-group-hats-people-310085).\
+    \ of {{% resource_link \"17f9ebea-9e7c-4b47-8b74-963051cb5c9a\" \"hippopx\" %}}.\
     \ Used under CC0.)"
   credit: ''
   image-alt: 'Students throwing graduation caps in the air. '

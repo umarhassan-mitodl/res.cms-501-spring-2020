@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Prof. Justin Reich describes the goals and overall approach
   of the course RES.CMS-501 Envisioning the Graduate of the Future.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
